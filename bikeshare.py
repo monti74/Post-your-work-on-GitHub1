@@ -10,8 +10,6 @@ from shutil import get_terminal_size
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
-
 
 CITY_DATA = {'Chicago': 'chicago.csv',
              'New York': 'new_york_city.csv',
